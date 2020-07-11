@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="89520cb8-c163-45b7-b05e-5c56466e7271" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="b3b7023a-e234-494e-9f2a-6878da5215d8" name="Default Changelist" comment="" />
+>>>>>>> feature-2
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -24,6 +29,10 @@
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+=======
+  <component name="ProjectId" id="1eYc8xieKSCfL444bIVWDWUgMGz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> feature-2
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -39,6 +48,12 @@
       <option name="presentableId" value="Default" />
       <updated>1594501810961</updated>
     </task>
+    <servers />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
     <servers />
   </component>
 </project>
